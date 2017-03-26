@@ -1,14 +1,10 @@
-html {
-	}
-
-h1 {
+#hex {
 
 }
 
-p {
-
-}
-
-footer {
-	
+#instructions {
+	font-family: Roboto, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	text-shadow: 10px 10px black;
 }
